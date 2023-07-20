@@ -1,4 +1,4 @@
-package com.example.hafta1
+package com.example.hafta1.odev2
 
 fun main() {
     try {

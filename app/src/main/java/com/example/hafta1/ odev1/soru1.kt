@@ -1,4 +1,4 @@
-package com.example.hafta1
+package com.example.hafta1.odev1
 
 import java.util.Scanner
 
