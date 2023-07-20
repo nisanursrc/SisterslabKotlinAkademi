@@ -1,4 +1,4 @@
-package com.example.hafta1
+package com.example.kotlinbootcamp1
 
 import org.junit.Test
 
