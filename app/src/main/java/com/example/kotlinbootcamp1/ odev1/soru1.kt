@@ -1,4 +1,4 @@
-package com.example.kotlinbootcamp1.odev1
+package com.example.kotlinbootcamp1.odevv1
 
 import java.util.Scanner
 

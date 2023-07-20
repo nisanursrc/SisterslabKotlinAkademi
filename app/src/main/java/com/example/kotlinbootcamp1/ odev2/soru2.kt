@@ -1,4 +1,4 @@
-package com.example.kotlinbootcamp1.odev2
+package com.example.kotlinbootcamp1.odevv2
 
 fun main() {
     try {
