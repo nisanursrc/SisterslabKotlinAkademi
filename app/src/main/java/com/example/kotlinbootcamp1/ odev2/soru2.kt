@@ -1,4 +1,4 @@
-package com.example.hafta1.odev2
+package com.example.kotlinbootcamp1.odev2
 
 fun main() {
     try {
