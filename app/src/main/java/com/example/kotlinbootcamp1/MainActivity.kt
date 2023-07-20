@@ -1,4 +1,4 @@
-package com.example.hafta1
+package com.example.kotlinbootcamp1
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
